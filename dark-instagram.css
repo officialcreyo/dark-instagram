@@ -1,9 +1,9 @@
 /* ==UserStyle==
 @name           Dark Republic for Instagram
 @namespace      github.com/officialcreyo/dark-instagram
-@version        1.0.1
+@version        1.0.2
 @description    A dark theme for Instagram
-@author         creyo
+@author         officialcreyo
 ==/UserStyle== */
 
 @-moz-document domain("instagram.com") {
@@ -159,6 +159,10 @@
     /* Chat */
     .N9abW, .DPiy6 {
         background-color: var(--dt-dark4);
+    }
+    
+    .X3a-9 textarea {
+        color: var(--dt-light);
     }
     
     .-qQT3:hover,
