@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Dark Republic for Instagram
 @namespace      github.com/officialcreyo/dark-instagram
-@version        1.0.2
+@version        1.0.3
 @description    A dark theme for Instagram
 @author         officialcreyo
 ==/UserStyle== */
@@ -21,6 +21,10 @@
         --ig-primary-background: var(--dt-dark);
         --ig-secondary-background: var(--dt-dark);
         --ig-highlight-background: var(--dt-input);
+    }
+    
+    body {
+        background-color: var(--dt-dark) !important;
     }
     
     a, a.T-jvg, a.T-jvg:visited {
@@ -306,6 +310,10 @@
 
     [fill="#262626"] {
         color: var(--dt-light)
+    }
+    
+    [fill="#262626"] line {
+        color: var(--dt-dark);
     }
     
     /* Scrollbar */
