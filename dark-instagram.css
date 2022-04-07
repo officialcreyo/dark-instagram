@@ -64,13 +64,18 @@
         background-color: var(--dt-input);
     }
     
-    .o64aR, ._3Laht, .t30g8 {
+    /* Background */
+    .o64aR, ._3Laht, .t30g8, .UDpcu, .vfoLd {
         background-color: var(--dt-dark);
     }
     
     ._lz6s, .oNO81, .S-mcP, .XfCBB {
         background-color: var(--dt-dark2);
         border-color: var(--dt-dark) !important;
+    }
+    
+    .tCibT {
+        background-color: var(--dt-dark);
     }
     
     /* Login */
@@ -331,5 +336,10 @@
 
     ::-webkit-scrollbar-thumb:hover {
         background: #272d35;
+    }
+    
+    /* Replace */
+    .DINPA ._7UhW9.PIoXz.MMzan.mDXrS.se6yk.T0kll:after {
+        content: ' · theme designed by creyo';
     }
 }
