@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Dark Republic for Instagram
 @namespace      github.com/officialcreyo/dark-instagram
-@version        1.0.4
+@version        1.0.5
 @description    A dark theme for Instagram
 @author         officialcreyo
 ==/UserStyle== */
@@ -65,7 +65,7 @@
     }
     
     /* Background */
-    .o64aR, ._3Laht, .t30g8, .UDpcu, .vfoLd {
+    .o64aR, ._3Laht, .t30g8, .UDpcu, .vfoLd, .vdqkn {
         background-color: var(--dt-dark);
     }
     
