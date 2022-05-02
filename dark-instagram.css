@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Dark Republic for Instagram
 @namespace      github.com/officialcreyo/dark-instagram
-@version        1.0.5
+@version        1.0.6
 @description    A dark theme for Instagram
 @author         officialcreyo
 ==/UserStyle== */
@@ -230,6 +230,20 @@
     }
     
     .CZW53 {
+        background-color: var(--dt-dark);
+    }
+    
+    /* Recommended Hover */
+    .Dw_ki {
+        background-color: var(--dt-dark2);
+    }
+    
+    .GdeD6 {
+        -webkit-box-shadow: 0 2px 16px 0 rgb(0 0 0 / 0%), 0 0 0 1px var(--dt-dark5);
+        box-shadow: 0 2px 16px 0 rgb(0 0 0 / 0%), 0 0 0 1px var(--dt-dark5);
+    }
+    
+    .YlhBV {
         background-color: var(--dt-dark);
     }
     
